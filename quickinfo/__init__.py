@@ -1,0 +1,1 @@
+from quickinfo.brain import QuickScrape
